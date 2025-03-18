@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group of Friends Mysteriously Vanish After Entering Abandoned Building | CNN News</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .header {
+            background-color: #cc0000;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            width: 60%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .headline {
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .timestamp {
+            color: gray;
+            font-size: 14px;
+        }
+        .article-body {
+            margin-top: 10px;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .related {
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #ddd;
+        }
+        .related h3 {
+            font-size: 20px;
+        }
+        .related ul {
+            list-style: none;
+            padding: 0;
+        }
+        .related ul li {
+            margin-top: 5px;
+        }
+        .related ul li a {
+            text-decoration: none;
+            color: #cc0000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">CNN News</div>
+    <div class="container">
+        <div class="headline">Group of Friends Mysteriously Vanish After Entering Abandoned Building</div>
+        <div class="timestamp">Published: March 18, 2025 | Updated: 3 hours ago</div>
+        <div class="article-body">
+            <p>Mandaluyong City, Philippines – Four teenagers, aged 17 to 18, have been reported missing after entering the infamous "Old Ramirez Building," a long-abandoned structure rumored to be haunted.</p>
+            <p>The group was last seen five days ago by witnesses who claim they entered the building late at night, possibly as part of an exploration or dare. However, they have not been heard from since, and authorities say they have mysteriously vanished without a trace.</p>
+            <p>Police have conducted multiple searches within the building but have not found any traces of the missing individuals. "We are exploring all possibilities, including foul play and paranormal activities, given the building's eerie history," a spokesperson said.</p>
+            <p>Local residents have long believed that the building is cursed, with stories of strange noises, disappearing objects, and shadowy figures circulating for years. "No one goes in there after dark," one resident told CNN. "I hope those kids are okay."</p>
+            <p>Authorities urge the public to stay away from the area and report any information that could lead to the missing teens.</p>
+        </div>
+        <div class="related">
+            <h3>Related Articles</h3>
+            <ul>
+                <li><a href="#">The Darkest Urban Legends in the Philippines</a></li>
+                <li><a href="#">Top 5 Haunted Places You Should Never Enter</a></li>
+                <li><a href="#">Unsolved Mysteries: Missing Persons Cases That Shocked the Nation</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
